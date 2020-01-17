@@ -1,0 +1,9 @@
+/*
+*Imorting Google fonts
+*/
+@import url("https://fonts.googleapis.com/css?family=Montserrat:800&display=swap");
+
+a {
+  text-decoration: none;
+  color: rgb(0, 153, 255);
+}
